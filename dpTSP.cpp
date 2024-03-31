@@ -1,3 +1,7 @@
+/*
+                This is the Dinamic Programming solution
+*/
+
 #include <bits/stdc++.h>
 const int MAX = 100000;
 using namespace std;
