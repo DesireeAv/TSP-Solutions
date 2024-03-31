@@ -1,3 +1,7 @@
+/*
+                This is the Generic Algorithm solution
+*/
+
 #include <bits/stdc++.h>
 typedef long long ll;
 ll nodos, vertices, MAX_GEN = 200, population_size, dist[1000][1000];
